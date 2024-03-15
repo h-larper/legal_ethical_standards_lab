@@ -1,12 +1,12 @@
-#Legal & Ethical Standards Task 👮‍♀️ ⚖️ ✅ ❌
+# Legal & Ethical Standards Task 👮‍♀️ ⚖️ ✅ ❌
 
 **Scenario 1**
-*Is the company breaking any laws with their proposal?*
+- *Is the company breaking any laws with their proposal?*
 Yes - if the banking organisation were to accept, they would be breaking GDPR laws. They have also broken GDPR by allowing the payday loan company to access authentic customer data to test their algorithm, as they hadn't informed the implicated customers prior to doing so, which again is breaching GDPR - they should've used dummy data instead. 
-*What are the ethical concerns with the company's proposal?*
+- *What are the ethical concerns with the company's proposal?*
 The obvious ethical concern here would be that the banking organisation would be putting their most vulnerable customers at increased financial risk, by selling their data to a company that would benefit from a customer's debt/financial struggle. This would be highly unethical, as banks should be working to promote their customer's best financial interests, not exacerbate their debt.
 In addition, socially debt is a taboo subject, and such information should be kept confidential between a customer and their bank, not given to a third party for financial gain, as this could lead to leaks, shame and embarrassment on behalf of the customer if friends or family were to see a targeted communication from a payday loan company. 
-*What could the company do to address the issue?*
+- *What could the company do to address the issue?*
 The banking organisation should decline the offer of partnership from the payday loan company, so as not to share any of their customer's financial information and thereby protect their customers. 
 
 
